@@ -4,7 +4,7 @@ This is my first time translating anything from japanese. Think my translations 
 
 The reason for doing this on github rather than some shitty wordpress blog is that translators always say something like "please comment when you see any mistakes" but never actually update anything. So, using github you can *Do It Yourself* and all I have to do is merge the changes.
 
-Don't get the wrong idea, it's not like I'm lazy or anything! I'm just very busy so don't go expect frequent updates. Probably about once every month-ish. Though I'll try doing it faster once the summer holidays start. No promises!
+Don't get the wrong idea, it's not like I'm lazy or anything! I'm just very busy so don't go expecting frequent updates. Probably about once every month-ish. Though I'll try doing it faster once the summer holidays start. No promises!
 
 ## Résumé of a Reincarnated Girl
 
