@@ -1,3 +1,9 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
 # Do It Yourself Translations
 
 This is my first time translating anything from japanese. Think my translations suck? Learn Japanese and *Do It Yourself*.
@@ -8,7 +14,7 @@ Don't get the wrong idea, it's not like I'm lazy or anything! I'm just very busy
 
 ## Résumé of a Reincarnated Girl
 
-![](./img/v2-cover.jpg)
+![](/img/v2-cover.jpg){:class="img-responsive"}
 
 * JP title: 転生少女の履歴書 (tensei shoujo no rirekisho)
 * Author: 唐澤和希/鳥好きのピスタチオ (Karasawa Kazuki/Bird-loving Pistachio)
