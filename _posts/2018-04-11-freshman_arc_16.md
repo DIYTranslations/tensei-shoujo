@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "TSR 16"
+date:   2018-04-11 12:10:29 -0600
+categories: translation
+permalink: "/tsr-16"
+...
+
 # Freshman Arc ⑯ Ice Magic Stone
 
 I went to the market early in the morning in order to buy cream-like fat cow milk.<br>
